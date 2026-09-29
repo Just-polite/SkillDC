@@ -1,0 +1,26 @@
+#div1{
+    display:flex;
+    flex-direction:column;
+    background-color:coral;
+    border:2px solid black;
+    gap:10px;
+}
+#div2{
+    display:flex;
+    gap:10px;
+}
+
+.img-fluid{
+    width:200px;
+    height:200px;
+    border:1px solid black;
+    border-radius:100px;
+}
+.idii{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size:x-large;
+}
+div{
+    display:flex;
+    gap:20px;
+}
